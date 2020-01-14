@@ -1,2 +1,4 @@
 
 project_files/Disaster_Response_Pipelines/classifier.pkl
+.ipynb_checkpoints
+*.pyc
